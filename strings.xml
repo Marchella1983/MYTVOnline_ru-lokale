@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="content_manager">Менеджер контента</string>
+<string name="content_sources">Поиск контента</string>
+<string name="desc_detail_info_intro_server">Добавить или изменить портал, плейлист или тюнер</string>
+<string name="login_details">Подробные сведения</string>
+<string name="content_overview">Обзор контента</string>
+<string name="tv_channels">ТВ каналы</string>
+<string name="vod">VOD (Видео по запросу)</string>
+<string name="last_epg_update">Последнее обновление EPG</string>
+<string name="type">Тип</string>
+<string name="id">Идентификатор</string>
+<string name="update_epg">Обновить EPG</string>
+<string name="clear_epg">Очистить EPG</string>
+<string name="clear_and_update_epg">Очистить и обновить EPG</string>
+<string name="show_hidden_info">Показать скрытое</string>
+<string name="hide_info">Скрыть</string>
+<string name="disable">Отключить</string>
+<string name="title_server_disable_confirm">Отключить источник контента: %s</string>
+<string name="desc_server_disable_confirm">Вы уверены что хотите отключить?</string>
+<string name="title_server_enable_confirm">Включить источник контента: %s</string>
+<string name="desc_server_enable_confirm">Вы уверены что хотите включить?</string>
+<string name="vod_url">VOD URL (произвольный)</string>
+<string name="xml_tv_epg_url">XMLTV EPG URL (произвольный)</string>
+<string name="epg_update_interval">Интервал обновления EPG</string>
+<string name="portal_nickname">Название портала</string>
+<string name="login_required">Если требуется логин?</string>
+<string name="exo_track_role_alternate">Aльтернативный</string>
+<string name="advanced">Расширенный</string>
+<string name="more_settings">Доп настройки</string>
+<string name="mac_id">MAC идентификатор</string>
+<string name="serial_number">Серийный номер</string>
+<string name="device_id_1">Идентификатор устройства 1</string>
+<string name="device_id_2">Идентификатор устройства 2</string>
+<string name="player_user_agent">Плеер User Agent</string>
+<string name="api_user_agent">API User Agent</string>
+<string name="reset">Сброс</string>
+<string name="manage_groups">Менеджер Групп</string>
+<string name="desc_detail_info_intro_manage_groups">Показать, скрыть или закрепить группы из источников контента.</string>
+<string name="manage_favorites">Менеджер Фаворитных</string>
+<string name="desc_detail_info_intro_manage_favorites">Создавайте и редактируйте свои любимые группы каналов.</string
+<string name="data_sync">Синхронизация данных</string>
+<string name="tv_groups">ТВ Группы</string>
+<string name="vod_groups">VOD Группы</string>
+<string name="tv_series_groups">ТВ Серии Группы</string>
+<string name="select_group_to_edit">Выбрать группу для редактирования</string>
+</resources>
