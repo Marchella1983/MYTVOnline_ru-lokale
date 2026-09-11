@@ -1366,7 +1366,7 @@ MYTVOnline4 и логотип MYTVOnline4 — товарные знаки Atlasl
     <string name="reset_subtitle_preferences">Сбросить настройки субтитров</string>
     <string name="reset_subtitle_preferences_message">Вы хотите сбросить настройки субтитров?</string>
     <string name="reset_to_default">Сбросить по умолчанию</string>
-    <string name="reset_user_preferences">Пользовательские настройки</string>
+    <string name="reset_user_preferences">Сброс настроек</string>
     <string name="restart_game">Начать заново</string>
     <string name="restore_fail">Ошибка восстановления</string>
     <string name="restricted_contents_can_not_add_to_favorites">Запрещенное содержимое.Нельзя добавить в избранное.</string>
