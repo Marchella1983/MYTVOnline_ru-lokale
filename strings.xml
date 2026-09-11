@@ -1876,4 +1876,42 @@ HLS fast start OFF: сначала начать воспроизведение �
     <string name="select_group_to_edit">Выбрать группу для редактирования</string>
     <string name="notifications">Уведомления</string>
     <string name="unread">Непрочитанные</string>
+    <string name="no_recordings">Нет записей</string>
+    <string name="reminders">Напоминания</string>
+    <string name="watchlist">Список Todo</string>
+    <string name="closed_caption">Скрыть субтитры</string>
+    <string name="desc_settings_closed_caption">Включить или выключить субтитры в поддерживаемых трансляциях</string>
+    <string name="osd_timeout">Тайм-аут OSD</string>
+    <string name="notification_popups">Всплывающие уведомления</string>
+    <string name="desc_settings_notification_message">Переключите для отображения или скрытия всплывающих уведомлений внутри приложения.</string>
+    <string name="msg_settings_convert_playlist_to_portal">"Активируйте эту опцию, чтобы автоматически преобразовать плейлист в портал и получить доступ к расширенным функциям, таким как:
+Timeshift, Catch-up, Replay, раздел «Сериалы» и многое другое."</string>
+    <string name="settings_short">Низкое</string>
+    <string name="settings_long">Высокое</string>
+    <string name="desc_settings_buffer_time">Управление длительностью буферизации потока после переключения каналов и его загрузкой.</string>
+    <string name="live_auto_frame_rate">Вкл/Выкл для ТВ (AFR)</string>
+    <string name="settings_detail_info_afr_enabled">Автоматическая синхронизация частоты кадров на выходе HDMI с частотой кадров воспроизводимого видеоконтента.</string>
+    <string name="tv_series_auto_frame_rate">Вкл/Выкл для ТВ Серий (AFR))</string>
+    <string name="settings_detail_info_afr_series_enabled">Автоматическая синхронизация частоты кадров на выходе HDMI с частотой кадров воспроизводимого видеоконтента ТВ Серий.</string>
+    <string name="vod_auto_frame_rate">Вкл/Выкл для VOD</string>
+    <string name="settings_detail_info_afr_vod_enabled">Автоматическая синхронизация частоты кадров на выходе HDMI с частотой кадров воспроизводимого VOD-контента.</string>
+    <string name="metadata_api">Метаданные API</string>
+    <string name="settings_detail_info_metadata_enabled">Переключатите для включения или отключения Метаданных API</string>
+    <string name="online_subtitle_sign_in_description_v2">"Этот сервис предоставляется сайтом www.opensubtitles.com
+Поиск и скачивание субтитров онлайн.
+По вопросам, касающимся сервиса онлайн-субтитров OpenSubtitles, пожалуйста, посетите сайт www.opensubtitles.com
+Зарегистрируйтесь на сайте www.opensubtitles.com и войдите в систему, чтобы увеличить суточный лимит скачивания."</string>
+    <string name="online_subtitle_sign_in_summary_v2">"Войдите в свою учетную запись на opensubtitles.com, чтобы увеличить суточный лимит скачиваний.
+Если у вас нет учетной записи на opensubtitles.com, создайте ее на сайте www.opensubtitles.com"</string>
+    <string name="white_on_black">Белое на чёрном</string>
+    <string name="white_on_transparent">Белый прозрачный фон</string>
+    <string name="black_on_white">Чёрное на белом</string>
+    <string name="yellow_on_blue">Желтое на синем</string>
+    <string name="retry_interval">Интервал повторных попыток</string>
+    <string name="desc_settings_retry_interval">Установите интервал между попытками перезапуска потока</string>
+    <string name="retry_count">Количество повторов</string>
+    <string name="desc_settings_regry_count">Установите максимальное количество попыток перезапуска потока</string>
+    <string name="time">раз</string>
+    <string name="times">раза</string>
+    <string name="unlimited">Неограниченно</string>
 </resources>
