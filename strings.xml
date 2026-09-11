@@ -1931,4 +1931,5 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="backup_guide_desc">Создайте резервную копию ваших настроек и параметров во внутреннем хранилище</string>
     <string name="restore">Восстанавить Резервные копии</string>
     <string name="restore_guide_desc">Восстановите резервные копии с устройства</string>
+    <string name="system_version">Версия системного ПО</string>
 </resources>
