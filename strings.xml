@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
     <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="about">Про</string>
+    <string name="about">Информация</string>
     <string name="ac3_content_alert">"Загрузить сейчас?
 "</string>
     <string name="accessibility">Доступность</string>
@@ -931,7 +931,7 @@ MYTVOnline4 и логотип MYTVOnline4 — товарные знаки Atlasl
     <string name="lock_profile">Заблокировать профиль</string>
     <string name="locked">Заблокировано</string>
     <string name="login">Логин</string>
-    <string name="login_required">Требуется логин?</string>
+    <string name="login_required">Если требуется логин?</string>
     <string name="long_press">Длительное нажатие</string>
     <string name="low">Низкий</string>
     <string name="m3u_playlist">Плейлист m3u</string>
@@ -1855,7 +1855,6 @@ HLS fast start OFF: сначала начать воспроизведение �
     <string name="xml_tv_epg_url">XMLTV EPG URL (произвольный)</string>
     <string name="epg_update_interval">Интервал обновления EPG</string>
     <string name="portal_nickname">Название портала</string>
-    <string name="login_required">Если требуется логин?</string>
     <string name="exo_track_role_alternate">Aльтернативный</string>
     <string name="advanced">Расширенный</string>
     <string name="more_settings">Доп настройки</string>
@@ -1875,4 +1874,6 @@ HLS fast start OFF: сначала начать воспроизведение �
     <string name="vod_groups">VOD Группы</string>
     <string name="tv_series_groups">ТВ Серии Группы</string>
     <string name="select_group_to_edit">Выбрать группу для редактирования</string>
+    <string name="notifications">Уведомления</string>
+    <string name="unread">Непрочитанные</string>
 </resources>
