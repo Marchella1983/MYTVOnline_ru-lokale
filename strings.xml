@@ -1914,4 +1914,21 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="time">раз</string>
     <string name="times">раза</string>
     <string name="unlimited">Неограниченно</string>
+    <string name="color_theme">Цветовая схема</string>
+    <string name="desc_settings_color_theme">Выберите цвет темы для фона и курсора</string>
+    <string name="iceberg">Айсберг</string>
+    <string name="rubber_duck">Резиновая уточка</string>
+    <string name="flamingo">Фламинго</string>
+    <string name="eclipse">Затмение</string>
+    <string name="lagoon">Лагуна</string>
+    <string name="purple_rain">Пурпурный дождь</string>
+    <string name="midnight_vibe">Полуночный</string>
+    <string name="cosmos">Космос</string>
+    <string name="asphalt">Асфальт</string>
+    <string name="backup_restore">Резервное копирование и Восстановление</string>
+    <string name="settings_desc_backup_restore_options">Создайте или восстановите настройки и избранные списки во внутреннем хранилище.</string>
+    <string name="backup">Резервная копия</string>
+    <string name="backup_guide_desc">Создайте резервную копию ваших настроек и параметров во внутреннем хранилище</string>
+    <string name="restore">Восстанавить Резервные копии</string>
+    <string name="restore_guide_desc">Восстановите резервные копии с устройства</string>
 </resources>
