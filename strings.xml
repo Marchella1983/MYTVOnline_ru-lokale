@@ -1952,4 +1952,13 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="restore_guide_desc">Восстановите резервные копии с устройства</string>
     <string name="system_version">Версия системного ПО</string>
     <string name="add_to_watchlist">Добавить в список</string>
+    <string name="show_hide_groups">Показать &amp; Скрыть грыппы</string>
+    <string name="show_and_hide_desc">Скрытие групп которые вас не интересуют. Впоследствии вы всегда можете снова включить скрытые группы через меню.</string>
+    <string name="select_group_and_press">Выберите группу и нажмите</string>
+    <string name="to_show_or_hide_group">чтобы показать или скрыть группу</string>
+    <string name="pin_groups">Закрепления групп</string>
+    <string name="to_pin_or_unpin_group">закрепить или открепить группу</string>
+    <string name="pin_groups_desc">Закрепите свои любимые группы в верхней части списка для быстрого доступа.</string>
+    <string name="reorder_pinned_groups">Изменить порядок закрепленных групп</string>
+    <string name="to_change_group_position">изменить порядок групп</string>
 </resources>
