@@ -1961,4 +1961,8 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="pin_groups_desc">Закрепите свои любимые группы в верхней части списка для быстрого доступа.</string>
     <string name="reorder_pinned_groups">Изменить порядок закрепленных групп</string>
     <string name="to_change_group_position">изменить порядок групп</string>
+    <string name="mobile">Руководство по Mobile APP</string>
+    <string name="mobile_app">Mobile App</string>
+    <string name="scan_to_download_app">"Отсканируйте QR-код, 
+чтобы загрузить приложение"</string>
 </resources>
