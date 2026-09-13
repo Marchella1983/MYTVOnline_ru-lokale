@@ -1973,4 +1973,5 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
 чтобы загрузить приложение"</string>
     <string name="change_lock_pin">Изменить PIN-код</string>
     <string name="settings_detail_info_lock_pin">Измените PIN-код для блокировки меню и категорий для взрослых.</string>
+    <string name="desc_channel_list_empty_watchlist_v2">Канал, содержащий программы, которые были добавлены в "Список избранного", появится в группе "Список избранного" во время трансляции (эфира) этих программ.</string>
 </resources>
