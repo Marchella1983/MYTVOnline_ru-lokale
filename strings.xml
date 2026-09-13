@@ -1951,4 +1951,5 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="restore">Восстанавить Резервные копии</string>
     <string name="restore_guide_desc">Восстановите резервные копии с устройства</string>
     <string name="system_version">Версия системного ПО</string>
+    <string name="add_to_watchlist">Добавить в список</string>
 </resources>
