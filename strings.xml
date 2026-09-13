@@ -1888,7 +1888,7 @@ HLS fast start OFF: сначала начать воспроизведение �
     <string name="time_of_a_day">Время суток</string>
     <string name="epg_data_settings"Настройки данных EPG</string>
     <string name="desc_epg_keep_days">Выберите количество дней данных EPG хранения</string>
-    <string name="day">день_(ей)</string>
+    <string name="day">день</string>
     <string name="tv_groups">ТВ Группы</string>
     <string name="vod_groups">VOD Группы</string>
     <string name="tv_series_groups">ТВ Серии Группы</string>
@@ -1944,12 +1944,18 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="midnight_vibe">Полуночный</string>
     <string name="cosmos">Космос</string>
     <string name="asphalt">Асфальт</string>
-    <string name="backup_restore">Резервное копирование и Восстановление</string>
-    <string name="settings_desc_backup_restore_options">Создайте или восстановите настройки и избранные списки во внутреннем хранилище.</string>
+    <string name="backup_restore">Резервное копирование &amp; Восстановление</string>
+    <string name="settings_desc_backup_restore_options">Создать или восстановить настройки приложения и избранные списки во внутреннем хранилище устройства.</string>
     <string name="backup">Резервная копия</string>
-    <string name="backup_guide_desc">Создайте резервную копию ваших настроек и параметров во внутреннем хранилище</string>
+    <string name="backup_guide_desc">Создайте резервную копию ваших настроек и параметров приложения во внутреннем хранилище</string>
     <string name="restore">Восстанавить Резервные копии</string>
     <string name="restore_guide_desc">Восстановите резервные копии с устройства</string>
+    <string name="erase_and_restore">Удаление и восстановление</string>
+    <string name="restore_in_progress">Выполняется восстановление</string>
+    <string name="restore_warning_dialog_desc">"Восстановление удалит существующие данные приложения 
+и заменит их данными из резервной копии. 
+Продолжить?"</string>
+    <string name="do_not_remove_usb">НЕ ОТСОЕДИНЯЙТЕ USB!</string>
     <string name="system_version">Версия системного ПО</string>
     <string name="add_to_watchlist">Добавить в список</string>
     <string name="show_hide_groups">Показать &amp; Скрыть грыппы</string>
@@ -1965,4 +1971,6 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="mobile_app">Mobile App</string>
     <string name="scan_to_download_app">"Отсканируйте QR-код, 
 чтобы загрузить приложение"</string>
+    <string name="change_lock_pin">Изменить PIN-код</string>
+    <string name="settings_detail_info_lock_pin">Измените PIN-код для блокировки меню и категорий для взрослых.</string>
 </resources>
