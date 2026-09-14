@@ -1407,6 +1407,7 @@ MYTVOnline4 и логотип MYTVOnline4 — товарные знаки Atlasl
     <string name="search_method_for">Способ поиска</string>
     <string name="search_text">Искать текст</string>
     <string name="searching">Поиск...</string>
+    <string name="search_history">История поиска</string>
     <string name="season">Сезон</string>
     <string name="seasons_episodes">Сезоны и эпизоды</string>
     <string name="sec">сек</string>
@@ -1976,3 +1977,4 @@ Timeshift, Catch-up, Replay, раздел «Сериалы» и многое д�
     <string name="settings_detail_info_lock_pin">Измените PIN-код для блокировки меню и категорий для взрослых.</string>
     <string name="desc_channel_list_empty_watchlist_v2">Канал, содержащий программы, которые были добавлены в избранное, появится в группе "Списка избранного" во время трансляции (эфира) этих программ.</string>
 </resources>
+
