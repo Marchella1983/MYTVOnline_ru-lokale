@@ -1870,7 +1870,7 @@ HLS fast start OFF: сначала начать воспроизведение �
     <string name="manage_groups">Менеджер Групп</string>
     <string name="desc_detail_info_intro_manage_groups">Показать, скрыть или закрепить группы из источников контента.</string>
     <string name="manage_favorites">Менеджер Фаворитных</string>
-    <string name="desc_detail_info_intro_manage_favorites">Создавайте и редактируйте свои любимые группы каналов.</string
+    <string name="desc_detail_info_intro_manage_favorites">Создавайте и редактируйте свои любимые группы каналов.</string>
     <string name="data_sync">Синхронизация данных</string>
     <string name="desc_detail_info_intro_data_sync">Управление параметрами обновления списков контента и данных EPG.</string>
     <string name="contents_data">Contents Data</string>
