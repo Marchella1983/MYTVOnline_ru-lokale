@@ -122,7 +122,6 @@
     <string name="backlight_setting">Настройка подсветки</string>
     <string name="backlight_timeout">Тайм-аут подсветки</string>
     <string name="backspace">Backspace</string>
-    <string name="backup_restore">Бэкап &amp; Восст.</string>
     <string name="battery">Батарея</string>
     <string name="begin_brand_test">Нажмите OK для начала теста кода %s</string>
     <string name="beta">Бета</string>
@@ -205,7 +204,6 @@
     <string name="close">Закрыть</string>
     <string name="close_message">Закрыть сообщение</string>
     <string name="close_show_hide_groups">Закрыть/Показать/Скрыть группы</string>
-    <string name="closed_caption">Закрыть надпись</string>
     <string name="closed_caption_1">Скрытый субтитр 1</string>
     <string name="closed_caption_off">Скрытые субтитры отключены</string>
     <string name="cloud_timeshift">Облако Timeshift</string>
@@ -1185,7 +1183,6 @@ MYTVOnline4 и логотип MYTVOnline4 — товарные знаки Atlasl
     <string name="options">Параметры</string>
     <string name="orb_search_action">Поиск</string>
     <string name="origins">Происхождение</string>
-    <string name="osd_timeout">OSD TimeOut</string>
     <string name="other">Другое</string>
     <string name="outline">Обычный</string>
     <string name="over_120_minutes">Более 120 минут</string>
@@ -1465,7 +1462,6 @@ MYTVOnline4 и логотип MYTVOnline4 — товарные знаки Atlasl
     <string name="setting_world">Мир и сеттинг</string>
     <string name="settings">Установки</string>
     <string name="settings_detail_dvr_options">Изменить параметры записи и временного сдвига</string>
-    <string name="settings_detail_info_afr_enabled">Автоматически согласовывать частоту кадров выходного сигнала HDMI с воспроизводимым в данный момент видеоконтентом.</string>
     <string name="settings_detail_info_audio_language">Выберите язык аудио по умолчанию.</string>
     <string name="settings_detail_info_auto_connect_server">"Автоматически подключаться к последнему используемому порталу.
 ON: подключаться к последнему порталу при запуске MYTVOnline2
@@ -1888,7 +1884,7 @@ HLS fast start OFF: сначала начать воспроизведение �
     <string name="schedule_data_refresh_settings">Настройки обновления данных по расписанию</string>
     <string name="schedule_refresh">Обновление по расписанию</string>
     <string name="time_of_a_day">Время суток</string>
-    <string name="epg_data_settings"Настройки данных EPG</string>
+    <string name="epg_data_settings">Настройки данных EPG</string>
     <string name="desc_epg_keep_days">Выберите количество дней данных EPG хранения</string>
     <string name="day">день</string>
     <string name="tv_groups">ТВ Группы</string>
